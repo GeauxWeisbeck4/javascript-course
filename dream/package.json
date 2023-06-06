@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.9.15"
+    "vite": "^2.9.16"
   },
   "dependencies": {
     "cors": "^2.8.5",
